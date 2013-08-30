@@ -15,3 +15,5 @@ Disks and partitions
 --------------------
 
 [fstab guide](https://help.ubuntu.com/community/Fstab)
+
+[Create and restore disk images](http://askubuntu.com/questions/19901/how-to-make-a-disk-image-and-restore-from-it-later)
