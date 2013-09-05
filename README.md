@@ -17,3 +17,9 @@ Disks and partitions
 [fstab guide](https://help.ubuntu.com/community/Fstab)
 
 [Create and restore disk images](http://askubuntu.com/questions/19901/how-to-make-a-disk-image-and-restore-from-it-later)
+
+
+Linux desktop
+-------------
+
+[How to install Gnome Shell 3.8 in Ubuntu 13.04 or Linux Mint 15](http://ubuntux.info/2013/06/08/como-instalar-gnome-shell-3-8-en-ubuntu-13-04-raring-ringtail-o-linux-mint-15/)
