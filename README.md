@@ -18,6 +18,10 @@ Disks and partitions
 
 [Create and restore disk images](http://askubuntu.com/questions/19901/how-to-make-a-disk-image-and-restore-from-it-later)
 
+[TestDisk partition and file recovery tool](http://www.cgsecurity.org/wiki/TestDisk)
+
+[man sfdisk - partition table manipulator](http://manpages.ubuntu.com/manpages/dapper/man8/sfdisk.8.html)
+
 
 Linux desktop
 -------------
