@@ -2,7 +2,7 @@
 
 There are multiple different layers, that influence the behavior of the monitor. To completely disable any suspension of the monitor you need to disable it in every of those layers:
 
-1. layer: virtual consoles
+'1. layer: virtual consoles
 
 Sets the interval of inactivity, in minutes, after which the screen will be automatically blanked:
 
@@ -12,7 +12,7 @@ Sets the VESA powerdown interval in minutes:
 
 `setterm -powerdown 0`
 
-2. layer: X
+'2. layer: X
 
 Turn the screen saver function off. The s option lets you set the screen saver parameters.
 
