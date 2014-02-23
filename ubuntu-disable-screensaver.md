@@ -12,7 +12,7 @@ There are multiple different layers, that influence the behavior of the monitor.
   
   `setterm -powerdown 0`
 
-'2. layer: X
+2. layer: X
 
   Turn the screen saver function off. The s option lets you set the screen saver parameters.
   
