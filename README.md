@@ -24,9 +24,11 @@ Disks and partitions
 [man sfdisk - partition table manipulator](http://manpages.ubuntu.com/manpages/dapper/man8/sfdisk.8.html)
 
 
-Linux desktop
+Linux desktop (aka Ubuntu quirks)
 -------------
 
 [How to install Gnome Shell 3.8 in Ubuntu 13.04 or Linux Mint 15](http://ubuntux.info/2013/06/08/como-instalar-gnome-shell-3-8-en-ubuntu-13-04-raring-ringtail-o-linux-mint-15/)
 
 [Disable screen blanking in Ubuntu](https://github.com/invernizzie/sysadmin-bookmarks/blob/master/ubuntu-disable-screensaver.md)
+
+[Script for brightness control in Intel HD Graphics Controllers](http://askubuntu.com/a/289177)
