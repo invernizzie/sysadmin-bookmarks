@@ -1,6 +1,8 @@
 sysadmin-bookmarks
 ==================
 
+[Linux Command Shelf](http://linoxide.com/guide/linux-command-shelf.html)
+
 Booting
 -------
 
