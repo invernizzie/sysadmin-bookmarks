@@ -34,3 +34,4 @@ Linux desktop (aka Ubuntu quirks)
 [Disable screen blanking in Ubuntu](https://github.com/invernizzie/sysadmin-bookmarks/blob/master/ubuntu-disable-screensaver.md)
 
 [Script for brightness control in Intel HD Graphics Controllers](http://askubuntu.com/a/289177)
+[My version.](https://github.com/invernizzie/sysadmin-bookmarks/blob/master/set-brightness.sh)
