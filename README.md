@@ -35,3 +35,5 @@ Linux desktop (aka Ubuntu quirks)
 
 [Script for brightness control in Intel HD Graphics Controllers](http://askubuntu.com/a/289177)
 [My version.](https://github.com/invernizzie/sysadmin-bookmarks/blob/master/set-brightness.sh)
+
+[Disable touchpad while typing](https://github.com/invernizzie/sysadmin-bookmarks/blob/master/ubuntu-disable-touchpad-typing.md)
