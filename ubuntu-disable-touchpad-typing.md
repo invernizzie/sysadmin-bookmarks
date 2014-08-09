@@ -1,8 +1,11 @@
+## How to disable touchpad while typing on Ubuntu
+And not lose your scrolling settings in the process.
+
 Run syndaemon on startup:
 
 `syndaemon -i 1 -Kd`
 
-To find out about the options run `syndaemon -?`.
+To find out about the available options run `syndaemon -?`.
 
 This will disable clicking by tapping and touchpad scrolling. To fix it, copy `/usr/share/X11/xorg.conf.d/50-synaptics.conf` to `/etc/X11/xorg.conf.d` (create the directory if it doesn't exist).
 Use the following options to enable two-finger scrolling:
