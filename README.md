@@ -37,3 +37,5 @@ Linux desktop (aka Ubuntu quirks)
 [My version.](https://github.com/invernizzie/sysadmin-bookmarks/blob/master/set-brightness.sh)
 
 [Disable touchpad while typing](https://github.com/invernizzie/sysadmin-bookmarks/blob/master/ubuntu-disable-touchpad-typing.md)
+
+[Copying to clipboard from the command line with xclip](http://askubuntu.com/questions/210413/what-is-the-command-line-equivalent-of-copying-a-file-to-clipboard)
